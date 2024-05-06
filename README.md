@@ -34,10 +34,10 @@ Security Measures: Implements security measures such as rate limiting, input val
 
 ## Installation
 
-Go-to [github](Link) to install CyberScan Pro.
+Go-to [github](https://github.com/shervin-jaison7/CyberScan_Pro.git) to install CyberScan Pro.
 
 ```bash
-git clone 
+git clone https://github.com/shervin-jaison7/CyberScan_Pro.git
 ```
 
 ## Run & Usage
