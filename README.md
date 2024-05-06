@@ -43,7 +43,7 @@ git clone https://github.com/shervin-jaison7/CyberScan_Pro.git
 ## Run & Usage
 
 ```bash
-cd CyberScan Pro
+cd CyberScan_Pro
 
 python3 cyberscan-pro.py
 
